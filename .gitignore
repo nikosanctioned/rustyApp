@@ -1,1 +1,13 @@
+# Rust build artifacts
 target/
+
+# Cargo lock file (optional, include if you want reproducible builds)
+# Cargo.lock
+
+# Editor/IDE files
+.idea/
+.vscode/
+*.swp
+
+# macOS junk
+.DS_Store
