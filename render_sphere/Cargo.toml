@@ -3,6 +3,7 @@ name = "render_sphere"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
+description = "Render a sphere using ray tracing"
 
 
 [dependencies]
