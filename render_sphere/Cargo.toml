@@ -1,0 +1,10 @@
+[package]
+name = "render_sphere"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+
+[dependencies]
+rayon = "1.10"  # Parallel iteration
+rand = "0.9"    # Random number generation
